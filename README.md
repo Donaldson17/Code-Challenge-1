@@ -4,10 +4,10 @@ Welcome! This project has three simple ways or tools to help you.
 
 ## 1. Boda Fare Calculator
 - **File:** [`bodaFareCalculator/fare.js`](bodaFareCalculator/fare.js)
-- **What it does:** Helps you know how much to pay for a boda boda  ride.  
+- **What it does:** Helps you know how much to pay for a boda boda ride.  
 - **How to use:**  
-  - Open the file in Node.js (or your terminal).
-  - Enter the number of kilometers you want to travel.
+  - Run the file using Node.js in your terminal with: `node bodaFareCalculator/fare.js`
+  - Enter the number of kilometers you want to travel when prompted.
   - It will show you the total fare.
 
 ## 2. Chai Calculator
