@@ -1,6 +1,6 @@
 # Code-Challenge-1
 
-Welcome! This project has three simple tools to help with everyday life in Kenya:
+Welcome! This project has three simple ways or tools to help you.
 
 ## 1. Boda Fare Calculator
 - **File:** [`bodaFareCalculator/fare.js`](bodaFareCalculator/fare.js)
