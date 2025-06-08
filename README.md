@@ -4,7 +4,7 @@ Welcome! This project has three simple ways or tools to help you.
 
 ## 1. Boda Fare Calculator
 - **File:** [`bodaFareCalculator/fare.js`](bodaFareCalculator/fare.js)
-- **What it does:** Helps you know how much to pay for a boda boda (motorbike taxi) ride.  
+- **What it does:** Helps you know how much to pay for a boda boda  ride.  
 - **How to use:**  
   - Open the file in Node.js (or your terminal).
   - Enter the number of kilometers you want to travel.
